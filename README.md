@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Jeremy
+
+🎓 I’m currently a graduate student at Augusta University, pursuing a degree in **Intelligence and Security Studies**.  
+🎓 I also hold a Master’s in Information Technology from **Illinois Institute of Technology**, and a Bachelor's in IT from **Western Governors University**.
+
+---
+
+## 👀 Interests
+
+- 🧠 Information Warfare / Cognitive Warfare
+- 🕵️ Cyber Counterintelligence / Active Measures
+- 🐍 Python / 🦀 Rust
+- 🐧 Linux and Open Source
+- 🔗 Blockchain & Cryptocurrency
+- 🤖 Artificial Intelligence
+
+---
+
+
+## 📫 Get in Touch
+ 
+- [GitHub](https://github.com/sysfailnet)  
+- Email: your.email@example.com
+
+---
 
 <!--
-**wvhefner/wvhefner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+sysfailnet/sysfailnet is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
