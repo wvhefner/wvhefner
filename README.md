@@ -13,6 +13,7 @@
 - 🐧 Linux and Open Source
 - 🔗 Blockchain & Cryptocurrency
 - 🤖 Artificial Intelligence
+- 🦠 Biodefense
 
 ---
 
