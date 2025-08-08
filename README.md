@@ -18,13 +18,6 @@
 ---
 
 
-## 📫 Get in Touch
- 
-- [GitHub](https://github.com/sysfailnet)  
-- Email: your.email@example.com
-
----
-
 <!--
 sysfailnet/sysfailnet is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
