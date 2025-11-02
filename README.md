@@ -8,9 +8,8 @@
 ## 👀 Interests
 
 - 🧠 Information Warfare / Cognitive Warfare
-- 🕵️ Cyber Counterintelligence / Active Measures
+- 🕵️ Cyber Counterintelligence / Active Measures / Cyber Operations
 - 🐍 Python / 🦀 Rust
 - 🐧 Linux and Open Source
-- 🔗 Blockchain & Cryptocurrency
 - 🤖 Artificial Intelligence
-- 🦠 Biodefense
+- 🦠 Cyberbiosecurity
