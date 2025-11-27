@@ -1,15 +1,14 @@
-# 👋 Hi, I’m Jeremy
+Активные мероприятия
 
-🎓 I’m currently a graduate student at Augusta University, pursuing a MA degree in **Intelligence and Security Studies**.  
-🎓 I also hold a Master’s in Information Technology from **Illinois Institute of Technology**, and a Bachelor's in IT from **Western Governors University**.
+I'm Jeremy - a researcher and perpetual student focused on security, information warfare, and cyber operations.
 
 ---
 
-## 👀 Interests
+## 👀 Research
 
 - 🧠 Information Warfare / Cognitive Warfare
 - 🕵️ Cyber Counterintelligence / Active Measures / Cyber Operations
 - 🐍 Python / 🦀 Rust
-- 🐧 Linux and Open Source
+- 🐧 Linux and Open Source and Embedded Systems
 - 🤖 Artificial Intelligence
 - 🦠 Cyberbiosecurity
