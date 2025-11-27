@@ -1,4 +1,4 @@
-I'm Jeremy - a researcher and perpetual student focused on security, information warfare, and cyber operations.
+Researcher and perpetual student focused on security, information warfare, and cyber operations.
 
 ---
 
